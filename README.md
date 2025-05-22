@@ -5,7 +5,7 @@ NLP4ALL is a project focused on advancing NLP applications in sport management r
 The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in the *Journal of Sport Management*. Each lecture is provided in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis.
 
 ## SystemPrompt Folder
-The `SystemPrompt` folder contains the exact system prompts (Research Assistant and Supervisor roles) utilized during our experiments. These prompts can help users replicate or experiment with our analyses to verify findings or extend our methodology.
+The `SystemPrompt` folder contains the exact system prompts (Research Assistant and Supervisor) utilized during our experiments. These prompts can help users replicate or experiment with our analyses to verify findings or extend our methodology.
 
 ## Experiment Instructions
 1. Go to [Google AI Studio](https://aistudio.google.com).
