@@ -1,6 +1,8 @@
 # Overview
 NLP4ALL is a project focused on advancing NLP applications in sport management research. We are presenting our vision and preliminary findings at the 2025 NASSM annual conference in San Diego. This repository contains supporting materials for our workshop presentation.
 
+[![NLP4ALL - Canva Slide](https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/NLP4ALL.png)](https://www.canva.com/design/DAGonID45DA/fxYlziviV6mAP_AmTK0RWQ/view?utm_content=DAGonID45DA&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
+
 ## Zeigler Folder
 The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in the *Journal of Sport Management*. Each lecture is provided in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis.
 
