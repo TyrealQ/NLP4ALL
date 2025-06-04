@@ -4,7 +4,9 @@ NLP4ALL is a project focused on advancing NLP applications in sport management r
 [![NLP4ALL - Canva Slide](https://github.com/TyrealQ/tyrealq.github.io/blob/master/images/NLP4ALL.png)](https://www.canva.com/design/DAGonID45DA/fxYlziviV6mAP_AmTK0RWQ/view?utm_content=DAGonID45DA&utm_campaign=designshare&utm_medium=embeds&utm_source=link)
 
 ## Zeigler Folder
-The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in the *Journal of Sport Management*. Each lecture is provided in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis.
+The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in the *Journal of Sport Management* (JSM). Each lecture is provided in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis.
+
+We sincerely thank NASSM and JSM for making these articles publicly available. The original articles can be accessed directly from the [JSM homepage](https://journals.humankinetics.com/view/journals/jsm/jsm-overview.xml).
 
 ## SystemPrompt Folder
 The `SystemPrompt` folder contains the exact system prompts (Research Assistant and Supervisor) utilized during our experiments. These prompts can help users replicate or experiment with our analyses to verify findings or extend our methodology.
