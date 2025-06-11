@@ -13,9 +13,10 @@ The `SystemPrompt` folder contains the exact system prompts (Research Assistant 
 
 ## Experiment Instructions
 1. Go to [Google AI Studio](https://aistudio.google.com).
-2. Select the `Gemini 2.5 Pro Preview` model.
-3. Set `Temperature` to 1.
-4. Choose `Structured Output` under `Tools`.
-5. Use the system prompts provided in the `SystemPrompt` folder to configure `System Instructions`.
-6. Upload a Zeigler lecture from the `Zeigler` folder, preferably in Markdown or JSON format.
-7. Hit `Run`.
+2. Sign in (or register a Google account).
+3. Select the `Gemini 2.5 Pro Preview` model.
+4. Set `Temperature` to 1.
+5. Choose `Structured Output` under `Tools`.
+6. Use the system prompts provided in the `SystemPrompt` folder to configure `System Instructions`.
+7. Upload a Zeigler lecture from the `Zeigler` folder, preferably in Markdown or JSON format.
+8. Hit `Run`.
