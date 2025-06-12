@@ -6,7 +6,7 @@ NLP4ALL is a project focused on advancing NLP applications in sport management r
 ## Zeigler Folder
 We sincerely thank NASSM and the Journal of Sport Management (JSM) for making these articles publicly available. The original articles can be accessed directly from the [NASSM Earle F. Zeigler Lecture Award page](https://nassm.org/awards-and-grants#page-section-61151cc91acb4b184fd58544).
 
-The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in JSM. Each article is available in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis. Note that Dr. Damon Andrew's lecture has not yet been published in JSM. Neverthless, we transcribed his speech, delivered at this year's (2025) award reception, and included it for our project.
+The `Zeigler` folder contains 33 publicly available Zeigler Award lectures published in JSM. Each article is available in PDF, Markdown, and JSON formats to facilitate verification, preprocessing, and NLP analysis. Note that Dr. Damon Andrew's lecture has not yet been published in JSM. Neverthless, we transcribed his speech, delivered at this year's (2025) award reception, and included it for our analysis.
 
 ## SystemPrompt Folder
 The `SystemPrompt` folder contains the exact system prompts (Research Assistant and Supervisor) utilized during our experiments. These prompts can help users replicate or experiment with our analyses to verify findings or extend our methodology.
