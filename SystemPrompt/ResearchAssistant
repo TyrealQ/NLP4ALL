@@ -76,16 +76,12 @@ Provide your analysis in this JSON structure:
       "interpretivist_significance": "[What this reveals about positioning]"
     }
   },
-  "content_themes": {
-    "key_topics": [
-      {
-        "topic": "[Topic name]",
-        "underlying_meaning": "[Latent meaning]",
-        "meaning_production": "[How meaning is constructed]",
-        "interpretivist_significance": "[Connection to subjective meaning-making]"
-      }
-    ]
-  },
+  "content_themes": [
+    "topic": "[Topic name]",
+    "underlying_meaning": "[Latent meaning]",
+    "meaning_production": "[How meaning is constructed]",
+    "interpretivist_significance": "[Connection to subjective meaning-making]"
+  ],
   "language_patterns": {
     "interpretivist_signals": [
       {
